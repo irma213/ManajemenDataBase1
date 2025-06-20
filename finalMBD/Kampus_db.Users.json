@@ -1,0 +1,39 @@
+[{
+  "_id": "K001",
+  "nama_kampus": "UNSULBAR",
+  "lokasi": "Sulawesi Barat",
+  "akreditasi": "B",
+  "jumlah_mahasiswa": 8000,
+  "fakultas": [
+    "Teknik",
+    "Pertanian"
+  ]
+},
+{
+  "_id": "K002",
+  "nama_kampus": "ITB",
+  "lokasi": "Bandung",
+  "akreditasi": "A",
+  "jumlah_mahasiswa": 45000
+},
+{
+  "_id": "K003",
+  "nama_kampus": "UGM",
+  "lokasi": "Surabaya",
+  "akreditasi": "A",
+  "jumlah_mahasiswa": 45000
+},
+{
+  "_id": "K004",
+  "nama_kampus": "UNHAS",
+  "lokasi": "Makassar",
+  "akreditasi": "A",
+  "jumlah_mahasiswa": 45000
+},
+{
+  "_id": "K005",
+  "nama_kampus": "UNm",
+  "lokasi": "Makassar",
+  "akreditasi": "A",
+  "jumlah_mahasiswa": 45000
+}]

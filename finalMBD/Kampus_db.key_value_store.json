@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6855144db5e7c0a7cea088ac"
+  },
+  "key": "user:1",
+  "value": "UNSULBAR"
+},
+{
+  "_id": {
+    "$oid": "6855144db5e7c0a7cea088ad"
+  },
+  "key": "user:2",
+  "value": "ITB"
+},
+{
+  "_id": {
+    "$oid": "6855144db5e7c0a7cea088ae"
+  },
+  "key": "user:3",
+  "value": "UGM"
+},
+{
+  "_id": {
+    "$oid": "6855144db5e7c0a7cea088af"
+  },
+  "key": "user:4",
+  "value": "UNHAS"
+},
+{
+  "_id": {
+    "$oid": "6855144db5e7c0a7cea088b0"
+  },
+  "key": "user:5",
+  "value": "UNM"
+}]
